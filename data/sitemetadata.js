@@ -15,7 +15,7 @@ const siteMetadata = {
   image: "/static/images/avatar.png",
   cover: "/static/favicons/cover.png",
   email: "saikunsun@gmail.com",
-  github: "https://github.com/SUNSIR007?tab=repositories",
+  github: "https://github.com/SUNSIR007",
   twitter: "@Ryuichi_lol",
   //twitterid:"1507965040603074564",
 };
