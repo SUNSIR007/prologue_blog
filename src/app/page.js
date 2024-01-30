@@ -17,13 +17,13 @@ export default function Home() {
 
   return (
     <div>
-      <div className="mx-auto max-w-2xl py-20 max-h-screen mt-8">
+      {/* <div className="mx-auto max-w-2xl py-20 max-h-screen mt-8">
         <h1 className="text-2xl font-semibold py-8">
           {siteMetadata.headerTitle}
         </h1>
         <p className="text-xl">{siteMetadata.description}</p>
         
-      </div>
+      </div> */}
       <div className="relative lg:grid lg:grid-cols-9 lg:gap-4 pt-12 max-w-6xl">
         <div className="max-w-2xl mx-auto col-span-7">
           <h2 className="pt-16 prose-h2 font-semibold">Featured Posts</h2>
