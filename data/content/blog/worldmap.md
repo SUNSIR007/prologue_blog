@@ -1,6 +1,6 @@
 ---
 title: 世界地图
-
+tags: ["Knowledge"]
 image: /static/images/world.jpg
 imageDesc: 世界地图
 pubDate: 2024-1-7
