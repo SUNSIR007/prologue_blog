@@ -220,7 +220,7 @@ export default async function PostPage({ params }) {
         </div>
         <div className="col-span-2 mx-auto">
           <div>
-            <h2 className="font-semibold prose-h2 mt-6">About Author</h2>
+            <h2 className="font-semibold prose-h2 mt-6 text-center">Me</h2>
             <Link href="/about">
             <Image
               src="/static/favicons/avatar.png"
