@@ -26,7 +26,7 @@ export default function Home() {
       </div> */}
       <div className="relative lg:grid lg:grid-cols-9 lg:gap-4 pt-12 max-w-6xl">
         <div className="max-w-2xl mx-auto col-span-7">
-          <h2 className="pt-16 prose-h2 font-semibold">Featured Posts</h2>
+          <h2 className="pt-4 prose-h2 font-semibold">Featured Posts</h2>
           <div className="py-4 mb-2">
         {posts
             .filter((post) => post.draft === false && post.featured == true)
