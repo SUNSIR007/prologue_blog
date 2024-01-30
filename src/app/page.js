@@ -102,7 +102,7 @@ export default function Home() {
     </p>
   </div>
 </div>
-<p className="py-4 text-center mx-auto prose-p">
+<p className="py-4 text-center mx-auto prose-p text-center">
   {siteMetadata.authorDesc}
 </p>
           {/* <Link href="/about" passHref>
