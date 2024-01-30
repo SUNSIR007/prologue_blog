@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  word-break: break-word;
+}
+
+
+.katex {
+  font: normal 1.21em KaTeX_Main, serif;
+  line-height: 1.2;
+  white-space: normal;
+  text-indent: 0;
+}
+
+.prose a {
+  @apply transition-all;
+}
+
+
+span::selection {
+  background-color: #00a8dc42 !important;
+}
+
+.prose :where(blockquote) {
+  font-style: normal;
+}
