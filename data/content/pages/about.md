@@ -10,6 +10,6 @@ width="100"
 height="100"
 className="rounded-full max-w-md mx-auto shadow drop-shadow"></img>
 
-<!-- <p className="text-center font-semibold py-2">自我批判和反叛思考</p> -->
+<p className="text-center font-semibold py-2">自我批判和反叛思考</p>
 
 
