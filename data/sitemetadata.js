@@ -4,11 +4,10 @@ const siteMetadata = {
   authorDesc:"知识，生活，摄影，折腾",
   publishName: "Ryuichi",
   headerTitle: "物质只把生活填满而不使之充实",
-  description:
-    "对当下的反思和批判",
+  //description:"对当下的反思和批判",
   language: "zh-cn",
   keywords:['Ryuichi', '序章'],
-  siteUrl: "https://prologue.dev",
+  siteUrl: "https://blog.ryuichi.life",
   siteRepo: "prologue.dev",
   repoid:"R_kgDOHl4HGg",
   categoryid: "DIC_kwDOHl4HGs4CP_Jc",
@@ -16,7 +15,7 @@ const siteMetadata = {
   image: "/static/images/ssk_avatar.jpeg",
   cover: "/static/favicons/cover.png",
   email: "saikunsun@gmail.com",
-  github: "sunsir007",
+  github: "https://github.com/SUNSIR007?tab=repositories",
   twitter: "@Ryuichi_lol",
   //twitterid:"1507965040603074564",
 };
