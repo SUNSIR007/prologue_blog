@@ -2,7 +2,6 @@
 title: 火车种类
 tags: ["Knowledge"]
 image: /static/images/huoche.jpg
-imageDesc: 世界地图
 pubDate: 2024-1-18
 featured: false
 ---

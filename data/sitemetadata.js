@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: "Ryuichi's Home",
   author: "Ryuichi",
-  authorDesc:" Life is a Game",
+  authorDesc:"Life is a Game.",
   publishName: "Ryuichi",
   //headerTitle: "艺术千秋，人生朝露",
   //description:"对当下的反思和批判",
