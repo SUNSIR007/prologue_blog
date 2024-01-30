@@ -8,7 +8,7 @@ const siteMetadata = {
   language: "zh-cn",
   keywords:['Ryuichi', '序章'],
   siteUrl: "https://blog.ryuichi.life",
-  //siteRepo: "prologue.dev",
+  siteRepo: "prologue_blog",
   repoid:"R_kgDOHl4HGg",
   categoryid: "DIC_kwDOHl4HGs4CP_Jc",
   siteLogo: "/static/favicons/favicon.ico",
