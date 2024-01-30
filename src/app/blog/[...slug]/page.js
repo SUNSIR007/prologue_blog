@@ -253,11 +253,11 @@ export default async function PostPage({ params }) {
             <p className="py-4 text-center mx-auto prose-p">
               {siteMetadata.authorDesc}
             </p>
-            <Link href="/about" passHref>
+            {/* <Link href="/about" passHref>
               <p className="text-right text-sm pt-2 text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-100 hover:underline transition duration-400">
                 About More →
               </p>
-            </Link>
+            </Link> */}
           </div>
           <div className="sticky top-0 pt-10">
             <div className="hidden xl:block">
