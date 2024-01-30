@@ -4,7 +4,7 @@ description: 00后，爱摄影，爱折腾
 ---
 
 <img
-src="/static/favicons/ssk_avatar.jpeg"
+src="/static/favicons/avatar.png"
 alt="Avatar"
 width="100"
 height="100"

@@ -12,7 +12,7 @@ const siteMetadata = {
   repoid:"R_kgDOHl4HGg",
   categoryid: "DIC_kwDOHl4HGs4CP_Jc",
   siteLogo: "/static/favicons/favicon.ico",
-  image: "/static/images/ssk_avatar.jpeg",
+  image: "/static/images/avatar.png",
   cover: "/static/favicons/cover.png",
   email: "saikunsun@gmail.com",
   github: "https://github.com/SUNSIR007?tab=repositories",
