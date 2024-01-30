@@ -1,6 +1,6 @@
 ---
 title: 杭州之旅
-# image: /static/images/IMG_6913.jpeg
+image: /static/images/IMG_6913.jpeg
 imageDesc: 灵隐寺拍
 pubDate: 2024-1-30
 description: 杭州真是个好地方
