@@ -1,9 +1,9 @@
 const siteMetadata = {
   title: "Ryuichi's Home",
   author: "Ryuichi",
-  authorDesc:"知识，生活，摄影，折腾",
+  authorDesc:"Life is a Game",
   publishName: "Ryuichi",
-  headerTitle: "物质只把生活填满而不使之充实",
+  headerTitle: "艺术千秋，人生朝露",
   //description:"对当下的反思和批判",
   language: "zh-cn",
   keywords:['Ryuichi', '序章'],
