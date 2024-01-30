@@ -1,10 +1,10 @@
 ---
 title: 关于作者
-description: 作者槐序，00后，在乐观理性与抑郁现实摇摆
+description: 00后，爱摄影，爱折腾
 ---
 
 <img
-src="/static/favicons/avatar.png"
+src="/static/favicons/ssk_avatar.jpeg"
 alt="Avatar"
 width="100"
 height="100"
