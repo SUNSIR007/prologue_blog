@@ -2,7 +2,7 @@
 title: 杭州之旅
 image: /static/images/IMG_6913.jpeg
 imageDesc: 灵隐寺拍
-pubDate: 2024-1-30
+pubDate: 2024-1-17
 description: 杭州真是个好地方
 featured: true
 ---
@@ -20,13 +20,13 @@ featured: true
 
 内部也如我想象的一样，上个世纪的模样，也不知道这辆绿皮火车服役了多久，我被分到中铺，一开始我以为是个好位置，但是看了床位之后才发现远超我的想象，真的就如同棺材，躺进去腰是直不起来的，但是好在火车上暖气很足，晚上不用盖被子也不会觉得冷
 
-![IMG_6824.jpeg](<https://i.typlog.com/ryuichi/8294783901_351855.jpg>)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6824.531br1vs8400.jpeg" alt="IMG_6824" />
 
-![IMG_6827.jpeg](<https://i.typlog.com/ryuichi/8294783825_480362.jpg>)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6827.5xrdevhhklc0.jpeg" alt="IMG_6827" />
 
-![IMG_6829.jpeg](<https://i.typlog.com/ryuichi/8294763445_064275.jpg>)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6828.2kgap0agmf60.jpeg" alt="IMG_6828" />
 
-![IMG_6831.jpeg](<https://i.typlog.com/ryuichi/8294763427_904769.jpg>)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6831.1ouxteusfy2o.jpeg" alt="IMG_6831" />
 
 
 晚上睡觉，噪音真的很大，火车的晃动声，还有轨道的摩擦声，还有聊天的声音，总之，晚上睡得很难受，床也很逼仄，翻身都很困难，一晚上的有效睡眠时间只有三个小时，早上六点半就起床了，这个时候已经有人开始外放抖音了。
@@ -35,23 +35,25 @@ featured: true
 
 早上列车员六点多就开始吆喝着卖早餐，什么德州扒鸡，水果，甚至连白酒都有，惊了。
 
-![IMG_6832.jpeg](<https://i.typlog.com/ryuichi/8294763124_432028.jpg>)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6832.33hb792sgaq0.jpeg" alt="IMG_6832" />
 
 早上实在起的太早了，到了十点实在坚持不住了就有爬上床睡了两个小时，看了会窗外的景色，慢慢悠悠的，火车就到站了。
 
-![IMG_6834.jpeg](<https://i.typlog.com/ryuichi/8294763029_238078.jpg>)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6833.3nxx4smrhpi0.jpeg" alt="IMG_6833" />
 
-![IMG_6835.jpeg](<https://i.typlog.com/ryuichi/8294763012_640932.jpg>)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6834.1nihtm232tsw.jpeg" alt="IMG_6834" />
+
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6835.7fx23lpevhw0.jpeg" alt="IMG_6835" />
 
 杭州给我的第一印象是干净，火车快到站的时候，周边的房子无论是小区房还是乡间小屋都很干净，有一种郑州开了 HDR的感觉。
 
 出站坐地铁，给我的感觉和郑州没什么不同，线路也是一样的复杂，出了地铁站后，我看到了杭州和郑州最大的不同，小资气息浓厚，出了地铁站后扑面而来，大家都打扮得很精致，审美也都很在线，给人看着就很舒服的感觉，其次是路上穿着骑行服骑行的人特别多。
 
-![IMG_6842.jpeg](<https://i.typlog.com/ryuichi/8294759180_38615.jpg>)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6842.6move3euba80.jpeg" alt="IMG_6842" />
 
 中午点了份达美乐，看到网上很多人都说好吃，真的不错。
 
-![4A00A1CF-F640-4FBF-9575-A68063470291_1_105_c](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/4A00A1CF-F640-4FBF-9575-A68063470291_1_105_c.4ubbotiut7g0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6840.2i0uzwlvffc0.jpeg" alt="IMG_6840" />
 ## 西湖
 
 下午睡了一觉到五点就收拾收拾准备去看西湖，看到西湖的第一眼并没有我想象的大，但是实际走下来也并不小，走了两个小时左右？ 但是好像也只走了一圈的四分之一多点。
@@ -60,9 +62,9 @@ featured: true
 
 晚上吹着凉风，坐在椅子上，听着歌，看着西湖，真是一件美事
 
-![IMG_6859.jpeg](<https://i.typlog.com/ryuichi/8294759035_551776.jpg>)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6859.4iyi2tg6kae0.jpeg" alt="IMG_6859" />
 
-![IMG_6862.jpeg](<https://i.typlog.com/ryuichi/8294759026_110449.jpg>)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6862.3bddo83ziyk0.jpeg" alt="IMG_6862" />
 
 ## 灵隐寺
 
@@ -70,100 +72,100 @@ featured: true
 
 纪念馆里的商品我也很喜欢，买了一个前程似锦，一个持戒的小和尚，结缘价：¥72
 
-![IMG_6888](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6888.57s5t991i100.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6888.4dw8twu8am40.jpeg" alt="IMG_6888" />
 
-![IMG_6896](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6896.7acl2y8bjf40.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6896.5bmekst2fxs0.jpeg" alt="IMG_6896" />
 
-![IMG_6901](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6901.2nt41nvjoco0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6901.7feqs9i2ngs0.jpeg" alt="IMG_6901" />
 
-![IMG_6903](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6903.8ctobo1v47s.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6903.611x8j4lzfk0.jpeg" alt="IMG_6903" />
 
-![IMG_6912](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6912.5s86h56pt500.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6912.1qiid2hi2lds.jpeg" alt="IMG_6912" />
 
-![IMG_6913](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6913.51d2e43j2j40.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6913.52o17sg06xc0.jpeg" alt="IMG_6913" />
 
-![IMG_6914](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6914.12xjx8p1nbcw.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6914.1s4i6z4qs14w.jpeg" alt="IMG_6914" />
 
-![IMG_6919](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6919.36wajb9ndfu0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6919.3xkpkx9m1fi0.jpeg" alt="IMG_6919" />
 
-![IMG_6930](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6930.13t5ruc5xo00.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6930.7kqjv9yk13k0.jpeg" alt="IMG_6930" />
 
-![IMG_6936](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6936.ox0uxnradfk.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6936.1fb05ydqe2yo.jpeg" alt="IMG_6936" />
 
 ## 浙大
 来之前我就已经知道浙大很大，但是晚上进去后还是大的出乎我的意料，豪华得出乎我的意料，一切都出乎我的意料，不知道有生之年能不能在浙大读书，真的太漂亮了，是我梦想中的大学，就像乌托邦一样。
 
-![IMG_6943](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6943.5bvyew22zo00.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6943.3qkg1rqywsy0.jpeg" alt="IMG_6943" />
 
-![IMG_6944](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6944.42fvlxuf5c00.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6944.3ajxt12n42g0.jpeg" alt="IMG_6944" />
 
-![IMG_6949](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6949.756vrpuakso0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6949.yh220o23seo.jpeg" alt="IMG_6949" />
 
-![IMG_6952](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6952.6uook7freeo0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6952.1mrf11hydtkw.jpeg" alt="IMG_6952" />
 
-![IMG_6955](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6955.6qd0dtpdimc0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6955.21zdb2kdzcgw.jpeg" alt="IMG_6955" />
 
-![IMG_6956](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6956.2upfsfxiuqm0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6956.1gxamou4iqw0.jpeg" alt="IMG_6956" />
 
-![IMG_6961](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6961.edn440mkrts.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6961.5k4tp3fzxe40.jpeg" alt="IMG_6961" />
 
-![IMG_6966](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240115/IMG_6966.3kesx3wr6le0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6966.1lkag59yapb4.jpeg" alt="IMG_6966" />
 
 ## 浙江图书馆
 早上坐了一个小时的地铁然后就来到了浙江图书馆，到了后很明显这个地方像是刚开发的一样，没多少人，不过图书馆确实适合开在这种地方，旁边还有浙江图书馆等等四个场馆。
 
 图书馆也是还在建设中，南门没有开，只能从北门进入，进去很简单，过个安检就可以了，进去后着实惊呆我了，大厅的设计非常震撼，天台是一块大屏，描述不出来，直接上图。
 
-![IMG_6972](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6972.3gl1vmpnwai0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6972.13ifefujsreo.jpeg" alt="IMG_6972" />
 
-![IMG_6975](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6975.63w4n0s1cbo0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6975.292e3ab3uusk.jpeg" alt="IMG_6975" />
 
 前几天走路走得实在太累了，干脆就找了个地方坐下来看看了那本《美国纽约摄影学院摄影教材》，原本我以为是一本很枯燥，很专业的书，但是看了几页后发现还挺对我胃口，找个时间全看了吧。
 
-![IMG_6978](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6978.3a3ldv2y3980.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6978.371ly8fvw9u0.jpeg" alt="IMG_6978" />
 
-![IMG_6979](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6979.6kablgn0j0g0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6979.66f0egrev1s0.jpeg" alt="IMG_6979" />
 
-![IMG_6980](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6980.7b5j83nx3k40.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6980.6llaf4wnpmg0.jpeg" alt="IMG_6980" />
 
-![IMG_6981](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6981.37a9vuca26w0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6981.7ebnjcohjk80.jpeg" alt="IMG_6981" />
 
 ## 杭电
 逛完浙江图书馆之后就已经快一点了，再回酒店又要一个小时，心想直接去杭电吧，正好把中午饭解决了，进杭电挺容易的，不需要预约，直接刷身份证就可以进去可能去参观杭电的人真的不多吧 hhh
 
-![IMG_6984](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6984.49w6xf3qyda0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6984.6t4r6423vqc0.jpeg" alt="IMG_6984" />
 
-![IMG_6985](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6985.7183y5vnfc40.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6985.2y6zado2c4q0.jpeg" alt="IMG_6985" />
 
-![IMG_6987](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6987.5hq2t8sqke00.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6987.1wqikc7ejwf4.jpeg" alt="IMG_6987" />
 
-![IMG_6988](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6988.49mg03ds2os0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6988.51vrvwn9gy00.jpeg" alt="IMG_6988" />
 
-![IMG_6989](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6989.3h3ygmjbb600.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240130/IMG_6989.4feavg0srpc0.jpeg" alt="IMG_6989" />
 
-![IMG_6990](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6990.6hv9yvewb38.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6990.6hv9yvewb38.jpeg" alt="IMG6990" />
 
-![IMG_6991](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6991.mi2vvql9tf4.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6991.mi2vvql9tf4.jpeg" alt="IMG6991" />
 
 ## 杭州之门
 说实话来之前我一直以为杭州之门是杭州的经济中心，就像郑州的 cbd 的玉米楼一样，但是事实跟我想的完全相反，杭州之门反而像是郊区一样，人少的可怜（像雄安新区一样），举办完亚运会后，场馆内都不让进，应该是在改造，仿佛时间静止在了亚运会。
 
-![IMG_6995](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6995.5609ashmnys0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6995.5609ashmnys0.jpeg" alt="IMG6995" />
 
-![IMG_6998](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6998.7d9jqipcs8g0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_6998.7d9jqipcs8g0.jpeg" alt="IMG6998" />
 
-![IMG_7002](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_7002.2vyc6b394le0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_7002.2vyc6b394le0.jpeg" alt="IMG7002" />
 
-![IMG_7003](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_7003.tjtl6azl8pc.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_7003.tjtl6azl8pc.jpeg" alt="IMG7003" />
 
 ## END
 至此，三天的杭州之旅就结束了，杭州给我留下了很深的印象，甚至在走之前充满了不舍，最后又去西湖晒了会太阳，真想定居在杭州啊
 
-![IMG_7017](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_7017.3ts8mcncaqe0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_7017.3ts8mcncaqe0.jpeg" alt="IMG7017" />
 
-![IMG_7021](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_7021.543j3gr94gk0.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_7021.543j3gr94gk0.jpeg" alt="IMG7021" />
 
-![IMG_7024](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_7024.1n1d1kko7klc.jpeg)
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240117/IMG_7024.1n1d1kko7klc.jpeg" alt="IMG7024" />
 
 再见咯杭州，下次再见。
 ps：坐硬卧六个床，五个女生，就我一个男生，这是什么桃花运。。。
