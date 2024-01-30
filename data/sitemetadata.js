@@ -3,7 +3,7 @@ const siteMetadata = {
   author: "Ryuichi",
   authorDesc:"Life is a Game",
   publishName: "Ryuichi",
-  headerTitle: "艺术千秋，人生朝露",
+  //headerTitle: "艺术千秋，人生朝露",
   //description:"对当下的反思和批判",
   language: "zh-cn",
   keywords:['Ryuichi', '序章'],
