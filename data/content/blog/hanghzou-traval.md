@@ -1,5 +1,6 @@
 ---
 title: 杭州之旅
+tags: - Life
 image: /static/images/IMG_6913.jpeg
 imageDesc: 灵隐寺拍
 pubDate: 2024-1-17
