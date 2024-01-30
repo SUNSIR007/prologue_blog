@@ -72,7 +72,7 @@ export default function Home() {
         </div>
         <div className="col-span-2 max-w-lg mx-auto">
           <div className="sticky top-0 pt-12">
-          <h2 className="font-semibold prose-h2 mt-6">About Author</h2>
+          <h2 className="font-semibold prose-h2 mt-6">Me</h2>
           <Link href="/about">
             <Image
               src="/static/favicons/avatar.png"
@@ -105,11 +105,11 @@ export default function Home() {
 <p className="py-4 text-center mx-auto prose-p">
   {siteMetadata.authorDesc}
 </p>
-          <Link href="/about" passHref>
+          {/* <Link href="/about" passHref>
             <p className="text-right text-sm pt-2 text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 hover:underline transition duration-400">
               About More →
             </p>
-          </Link>
+          </Link> */}
           </div>
         </div>
       </div>
