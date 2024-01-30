@@ -1,4 +1,4 @@
-# Prologue Blog
+# Ryuichi Blog
 
 Next.js13 + tailwindcss + contentlayer + MDX Blog
 
@@ -16,9 +16,6 @@ Next.js13 + tailwindcss + contentlayer + MDX Blog
 - 完整的SEO支持，Opengraph、JSON-LD和RSS
 - 轻量级的搜索引擎，Fuse.js实现全文搜索和模糊搜索
 
-![Index Screenshot](/public/static/images/Index-Screenshot.jpg)
-
-![Post Screenshot](/public/static/images/Post-Screenshot.jpg)
 
 ## Get Started
 
@@ -59,7 +56,3 @@ title: title
 description: description
 (required)
 ```
-
-### 待完善
-
-- 文章的`categories`类别

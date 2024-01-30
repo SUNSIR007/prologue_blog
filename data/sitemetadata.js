@@ -3,7 +3,7 @@ const siteMetadata = {
   author: "Ryuichi",
   authorDesc:"知识，生活，摄影，折腾",
   publishName: "Ryuichi",
-  //headerTitle: "物质只把生活填满而不使之充实",
+  headerTitle: "物质只把生活填满而不使之充实",
   //description:"对当下的反思和批判",
   language: "zh-cn",
   keywords:['Ryuichi', '序章'],
