@@ -16,7 +16,7 @@ featured: false
 2. **已暂存（staged）**：表示对一个已修改文件的当前版本做了标记，使之包含在下次提交的快照中。
 3. **已提交（commited）**：表示数据已经安全地保存在本地数据库中。
 
-<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240131/截屏2024-01-31-22.47.01.12w6aq7xbrmo.png](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240131/%E6%88%AA%E5%B1%8F2024-01-31-22.47.01.12w6aq7xbrmo.png" alt="截屏2024-01-31-22" />
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240131/截屏2024-01-31-22.47.01.3lidw31wsis0.png" alt="截屏2024-01-31-22" />
 
 **总结为：工作区——>暂存区——>本地仓库**
 
@@ -87,7 +87,7 @@ Git 支持多种数据传输协议。 上面的例子使用的是 https:// 协�
 
 工作目录下的每一个文件都不外乎这两种状态：**已跟踪** 或 **未跟踪。**已跟踪的文件是指那些被纳入版本控制的文件，在上一次快照中有它们的记录，在工作一段时间后，它们的状态可能是未修改，已修改或已放入暂存区。简而言之，**已跟踪的文件就是 Git 已经知道的文件**。
 
-<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240131/截屏2024-01-31-23.14.31.2q6kulgqr960.png](https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240131/%E6%88%AA%E5%B1%8F2024-01-31-23.14.31.2q6kulgqr960.png" alt="截屏2024-01-31-23" />
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240131/截屏2024-01-31-23.14.31.6frd405q1ho0.png" alt="截屏2024-01-31-23" />
 
 1. 检查当前文件状态
 
