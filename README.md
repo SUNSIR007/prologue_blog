@@ -4,6 +4,8 @@ Next.js13 + tailwindcss + contentlayer + MDX Blog
 
 这是一个由Next.js生态拼凑而生的博客（笔者没有任何技术）。
 
+原作者：https://github.com/hxlog/prologue.dev
+
 ## Features
 
 - Content Focused, contentlayer + md/mdx
@@ -18,12 +20,6 @@ Next.js13 + tailwindcss + contentlayer + MDX Blog
 
 
 ## Get Started
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhxlog%2Fprologue.dev)
-
-```
-npm install
-```
 
 You can easily customize this site, all configurations are in `/data`,static files are in `/public`
 
