@@ -245,7 +245,7 @@ $ git remote
 显示远程仓库使用 Git 保存的简写及其对应的 URL：
 
 ```powershell
-$ git reemote -v
+$ git remote -v
 ```
 
 2. 添加远程仓库
