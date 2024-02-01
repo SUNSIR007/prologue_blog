@@ -1,6 +1,6 @@
 ---
 title: 初识 Git
-tags: ["Web"]
+tags: ["Git"]
 image: /static/images/git.png
 pubDate: 2024-1-31
 featured: false

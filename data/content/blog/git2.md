@@ -1,6 +1,6 @@
 ---
 title: Git分支
-tags: ["Web"]
+tags: ["Git"]
 image: /static/images/git.png
 pubDate: 2024-2-1
 featured: false
@@ -106,7 +106,7 @@ $ git checkout master
 $ git merge hotfix
 ```
 
-<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240201/截屏2024-02-01-11.04.41.6utsvwsojss0.png">
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240201/截屏2024-02-01-11.04.41.6utsvwsojss0.png"/>
 
 此时，hotfix 分支就不需要了，可以进行删除操作：
 
