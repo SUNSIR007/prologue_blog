@@ -250,7 +250,7 @@ $ git reemote -v
 
 1. 添加远程仓库
 
-运行git remote add <shortname> <url>添加一个新的远程仓库，同时指定一个方便使用的简写：
+运行git remote add shortname url添加一个新的远程仓库，同时指定一个方便使用的简写：
 
 ```powershell
 $ git remote add git_learn git@github.com:SUNSIR007/git_learn.git
