@@ -67,7 +67,7 @@ ls -a
 
 可以检查目录下是否出现.git文件
 
-1. 克隆现有的仓库
+2. 克隆现有的仓库
 
 ```powershell
 $ git clone https://github.com/libgit2/libgit2
@@ -97,7 +97,7 @@ Git 支持多种数据传输协议。 上面的例子使用的是 https:// 协�
 $ git status
 ```
 
-1. 跟踪新文件和暂存已修改的文件
+2. 跟踪新文件和暂存已修改的文件
 
 使用命令 git add 开始跟踪一个文件。
 
@@ -111,7 +111,7 @@ $ git add README.md
 $ git add .
 ```
 
-1. 忽略文件
+3. 忽略文件
 
 一般我们总会有些文件无需纳入 Git 的管理，也不希望它们总出现在未跟踪文件列表。 通常都是些自动生成的文 件，比如日志文件，或者编译过程中创建的临时文件等。 在这种情况下，我们可以创建一个名为 .gitignore 的文件，列出要忽略的文件的模式。 来看一个实际的 .gitignore 例子:
 
@@ -122,7 +122,7 @@ echo hello.log > .gitignore
 
 将文件名添加到.gitignore文件中即可。
 
-1. 查看已暂存和未暂存的修改
+4. 查看已暂存和未暂存的修改
 
 查看工作区和暂存区之间的差异：
 
@@ -136,7 +136,7 @@ $ git diff
 $ git diff --staged
 ```
 
-1. 提交更新
+5. 提交更新
 
 现在的暂存区已经准备就绪，可以提交了。 在此之前，请务必确认还有什么已修改或新建的文件还没有 git add 过， 否则提交的时候不会记录这些尚未暂存的变化。 这些已修改但未暂存的文件只会保留在本地磁盘。 所以，每次准备提交前，先用 git status 看下，你所需要的文件是不是都已暂存起来了。
 
@@ -150,7 +150,7 @@ $ git commit
 $ git commit -m "change sth"
 ```
 
-1. 跳过使用暂存区域
+6. 跳过使用暂存区域
 
 给 git commit 加上 -a 选项，Git 就会自动把所有已经跟踪过的文件暂存 起来一并提交，从而跳过git add步骤:
 
@@ -164,7 +164,7 @@ $ git commit -a -m "change sth"
 $ git commit -am "change sth"
 ```
 
-1. 移除文件
+7. 移除文件
 
 要从 Git 中移除某个文件，就必须要从已跟踪文件清单中移除(确切地说，是从暂存区域移除)，然后提交。
 
@@ -174,7 +174,7 @@ $ git commit -am "change sth"
 $ git rm hello.txt
 ```
 
-1. 重命名文件
+8. 重命名文件
 
 ```powershell
 $ git mv README.md README
@@ -224,7 +224,7 @@ $ git commit --amend
 $ git reset HEAD hello.txt
 ```
 
-1. 撤销对文件的修改
+2. 撤销对文件的修改
 
 ```powershell
 $ git checkout -- hello.txt
@@ -248,7 +248,7 @@ $ git remote
 $ git reemote -v
 ```
 
-1. 添加远程仓库
+2. 添加远程仓库
 
 运行git remote add shortname url添加一个新的远程仓库，同时指定一个方便使用的简写：
 
@@ -256,11 +256,11 @@ $ git reemote -v
 $ git remote add git_learn git@github.com:SUNSIR007/git_learn.git
 ```
 
-<img src="!https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240201/截屏2024-02-01-07.31.34.295n2e9nvxj4.png"/>
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240201/截屏2024-02-01-07.31.34.295n2e9nvxj4.png"/>
 
 现在你可以在命令行中使用字符串git_learn来代替整个 URL。
 
-1. 从远程仓库中抓取与拉取
+3. 从远程仓库中抓取与拉取
 
 ```powershell
 $ git fetch <remote>
@@ -272,7 +272,7 @@ $ git fetch <remote>
 
 运行 git pull通常会从最初克隆的服务器上抓取数据并自动尝试合并到当前所在的分支。
 
-1. 推送到远程仓库
+4. 推送到远程仓库
 
 当你想将 main 分支推送到 origin 服务器时，可以运行如下命令：
 
@@ -280,13 +280,13 @@ $ git fetch <remote>
 $ git push origin main
 ```
 
-1. 查看某个远程仓库
+5. 查看某个远程仓库
 
 ```powershell
 $ git remote show origin
 ```
 
-1. 远程仓库的重命名与移除
+6. 远程仓库的重命名与移除
 
 将 pb 重命名为 paul
 
