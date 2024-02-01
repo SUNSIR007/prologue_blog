@@ -16,7 +16,7 @@ featured: false
 2. **已暂存（staged）**：表示对一个已修改文件的当前版本做了标记，使之包含在下次提交的快照中。
 3. **已提交（commited）**：表示数据已经安全地保存在本地数据库中。
 
-<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240131/截屏2024-01-31-22.47.01.3lidw31wsis0.png" alt="截屏2024-01-31-22" />
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240131/截屏2024-01-31-22.47.01.12w6aq7xbrmo.png"/>
 
 **总结为：工作区——>暂存区——>本地仓库**
 
@@ -87,7 +87,7 @@ Git 支持多种数据传输协议。 上面的例子使用的是 https:// 协�
 
 工作目录下的每一个文件都不外乎这两种状态：**已跟踪** 或 **未跟踪。**已跟踪的文件是指那些被纳入版本控制的文件，在上一次快照中有它们的记录，在工作一段时间后，它们的状态可能是未修改，已修改或已放入暂存区。简而言之，**已跟踪的文件就是 Git 已经知道的文件**。
 
-<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240131/截屏2024-01-31-23.14.31.6frd405q1ho0.png" alt="截屏2024-01-31-23" />
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240131/截屏2024-01-31-23.14.31.2q6kulgqr960.png"/>
 
 1. 检查当前文件状态
 
@@ -186,4 +186,133 @@ $ git mv README.md README
 $ mv README.md README
 $ git rm README.md
 $ git add README
+```
+
+### 六.查看提交历史
+
+```powershell
+$ git log
+```
+
+不传入任何参数的默认情况下，git log会按时间先后顺序列出所有的提交，最近的更新排在最上面。
+
+显示最近两次提交的差异：
+
+```powershell
+$ git log -p -2
+```
+
+将每个提交放在一行显示：
+
+```powershell
+$ git log --ongline
+```
+
+### 七.撤销操作
+
+有时候我们提交完了才发现漏了几个文件没有添加，或者提交信息写错了。此时，可以运行如下命令重新提交：
+
+```powershell
+$ git commit --amend
+```
+
+与其说是修复旧提交，倒不如说是完全用一个新的提交替换旧的提交。
+
+1. 取消暂存的文件
+
+```powershell
+$ git reset HEAD hello.txt
+```
+
+1. 撤销对文件的修改
+
+```powershell
+$ git checkout -- hello.txt
+```
+
+你对这个文件在本地的任何修改都会消失，Git 会用在最近提交的版本覆盖掉他（暂存区的版本）。
+
+### 八.远程仓库的使用
+
+1. 查看远程仓库
+
+列出远程服务器的简写：
+
+```powershell
+$ git remote 
+```
+
+显示远程仓库使用 Git 保存的简写及其对应的 URL：
+
+```powershell
+$ git reemote -v
+```
+
+1. 添加远程仓库
+
+运行git remote add <shortname> <url>添加一个新的远程仓库，同时指定一个方便使用的简写：
+
+```powershell
+$ git remote add git_learn git@github.com:SUNSIR007/git_learn.git
+```
+
+<img src="!https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240201/截屏2024-02-01-07.31.34.295n2e9nvxj4.png"/>
+
+现在你可以在命令行中使用字符串git_learn来代替整个 URL。
+
+1. 从远程仓库中抓取与拉取
+
+```powershell
+$ git fetch <remote>
+```
+
+这个命令会访问远程仓库，从中拉取所有你还没有的数据。执行完成后，你将会拥有那个远程仓库中所有分支的引用，可以随时合并并查看。
+
+如果你使用 clone 命令克隆了一个仓库，命令会自动将其添加为远程仓库并默认以“origin”为简写。所以，git fetch origin会抓取克隆（或上一次抓取）后新推送的所有工作。必须注意 git fetch命令只会讲数据下载到你的本地仓库，它并不会自动合并或者修改你当前的工作。当准备好时你必须手动将其合并入你的工作。
+
+运行 git pull通常会从最初克隆的服务器上抓取数据并自动尝试合并到当前所在的分支。
+
+1. 推送到远程仓库
+
+当你想将 main 分支推送到 origin 服务器时，可以运行如下命令：
+
+```powershell
+$ git push origin main
+```
+
+1. 查看某个远程仓库
+
+```powershell
+$ git remote show origin
+```
+
+1. 远程仓库的重命名与移除
+
+将 pb 重命名为 paul
+
+```powershell
+$ git remote rename pb paul
+```
+
+如果想要移除一个远程仓库，可以使用如下命令：
+
+```powershell
+$ git remote remove paul
+```
+
+<img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240201/截屏2024-02-01-07.52.08.2srq51hfaay0.png"/>
+
+### 九.Git 别名
+
+```powershell
+$ git config --global alias.co checkout
+$ git config --global alias.ci commit
+```
+
+co → checkout, ci → commit
+
+或者给一串命令起别名：
+
+```powershell
+$ git config --global alias.unstage 'reset HEAD --'
 ```
