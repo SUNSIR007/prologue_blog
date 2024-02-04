@@ -23,7 +23,7 @@ featured: false
    删除远程分支：
 
    ```powershell
-   git push --delete <repo-name> <branch-name>
+   git push --delete <remote-name> <branch-name>
    ```
 
    
@@ -78,7 +78,25 @@ featured: false
 
    
 
-7. **一次性提交**
+7. **删除远程仓库引用**
+
+   ```powershell
+   git remote remove <reomote-name>
+   git remote remove origin
+   ```
+
+   
+
+8. **远程仓库修改名称后，更新本地引用**
+
+   ```powershell
+   git remote set-url <remote-name> <ssh-url>
+   git remote set-url origin <ssh-url>
+   ```
+
+   
+
+9. **一次性提交**
 
    ```powershell
    git commit -am "change sth"
@@ -86,7 +104,7 @@ featured: false
 
    <mark>需要注意，如果是新建的文件需要先 git add .跟踪之后才能使用一次性提交</mark>
 
-8. **查看仓库状态**
+10. **查看仓库状态**
 
    ```powershell
    git status
@@ -94,42 +112,42 @@ featured: false
 
    
 
-9. **git diff 的使用**
+11. **git diff 的使用**
 
-   查看工作区与暂存区的差异：
+    查看工作区与暂存区的差异：
 
-   ```powershell
-   git diff
-   ```
+    ```powershell
+    git diff
+    ```
 
-   查看暂存区与上次提交的差异：
+    查看暂存区与上次提交的差异：
 
-   ```powershell
-   git diff --staged
-   git diff --cached
-   ```
+    ```powershell
+    git diff --staged
+    git diff --cached
+    ```
 
-   查看两次提交之间的差异：
+    查看两次提交之间的差异：
 
-   ```powershell
-   git diff commit1-hash commit2-hash //使用哈希值
-   ```
+    ```powershell
+    git diff commit1-hash commit2-hash //使用哈希值
+    ```
 
-   查看单独一个文件的修改：
+    查看单独一个文件的修改：
 
-   ```powershell
-   git diff <file-name>
-   ```
+    ```powershell
+    git diff <file-name>
+    ```
 
-   查看不同分支最新提交之间的差异：
+    查看不同分支最新提交之间的差异：
 
-   ```powershell
-   git diff <branch1-name> <branch2-name>
-   ```
+    ```powershell
+    git diff <branch1-name> <branch2-name>
+    ```
 
-   
+    
 
-10. **git reset的使用**
+12. **git reset的使用**
 
     回退的同时删除工作区和暂存区：
 
@@ -157,7 +175,7 @@ featured: false
 
     
 
-11. **git log 和 git reflog 的使用与区别**
+13. **git log 和 git reflog 的使用与区别**
 
     显示历史提交信息（commit）：
 
@@ -199,7 +217,7 @@ featured: false
     合并到本地：
 
     ```powershell
-    git merge <repo-name>/<branch-name>
+    git merge <remote-name>/<branch-name>
     git merge origin/main
     ```
 
