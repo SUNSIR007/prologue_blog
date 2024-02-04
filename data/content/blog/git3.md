@@ -180,3 +180,27 @@ featured: false
     - **恢复能力**：`git reflog` 可以帮助你恢复到几乎任何之前的状态，即使那些状态已经被删除或丢弃，只要它们还在本地仓库的操作历史中。
     - **适用范围**：`git log` 的信息是存储在项目的历史中，可以被推送到远程仓库；而 `git reflog` 的信息是本地的，每个克隆的仓库都有自己的 reflog，不会被推送到远程仓库。
 
+
+
+12. 从远程拉取并合并
+
+    拉取：
+
+    ```powershell
+    git fetch origin
+    ```
+
+    比较远程与本地之间的差异：
+
+    ```powershell
+    git diff main origin/main
+    ```
+
+    合并到本地：
+
+    ```powershell
+    git merge <repo-name>/<branch-name>
+    git merge origin/main
+    ```
+
+    
