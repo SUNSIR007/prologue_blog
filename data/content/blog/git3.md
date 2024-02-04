@@ -84,7 +84,7 @@ featured: false
    git commit -am "change sth"
    ```
 
-   
+   <mark>需要注意，如果是新建的文件需要先 git add .跟踪之后才能使用一次性提交</mark>
 
 8. **查看仓库状态**
 
