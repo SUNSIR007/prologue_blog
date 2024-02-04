@@ -157,4 +157,26 @@ featured: false
 
     
 
-    ---未完待续---
+11. **git log 和 git reflog 的使用与区别**
+
+    显示历史提交信息（commit）：
+
+    ``` powershell
+    git log
+    git log --oneline
+    ```
+
+    <img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240204/截屏2024-02-04-21.56.41.1pk59etdblds.png" alt="截屏2024-02-04-21" />
+
+    显示本地仓库中 HEAD 和分支指针的变化历史，提交、合并、重置和分支的检出等：
+
+    ```powershell
+    git reflog
+    git reflog --oneline
+    ```
+
+    <img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240204/截屏2024-02-04-21.57.23.32u2ng8nyyc0.png" alt="截屏2024-02-04-21" />
+
+    - **恢复能力**：`git reflog` 可以帮助你恢复到几乎任何之前的状态，即使那些状态已经被删除或丢弃，只要它们还在本地仓库的操作历史中。
+    - **适用范围**：`git log` 的信息是存储在项目的历史中，可以被推送到远程仓库；而 `git reflog` 的信息是本地的，每个克隆的仓库都有自己的 reflog，不会被推送到远程仓库。
+
