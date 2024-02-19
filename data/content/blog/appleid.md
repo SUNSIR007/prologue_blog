@@ -26,6 +26,8 @@ https://appleid.apple.com/
 
 <img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240219/截屏2024-02-19-15.52.19.6pyfrogxblo0.png" alt="截屏2024-02-19-15" />
 
+选择更改国家或地区
+
 <img src="https://cdn.jsdelivr.net/gh/SUNSIR007/picx-images-hosting@master/20240219/截屏2024-02-19-15.53.42.zaw3o8eh6i8.png" alt="截屏2024-02-19-15" />
 
 国家或地区选择美国，付款方式可选无（通过支付宝买礼品卡的方式进行消费）
