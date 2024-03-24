@@ -6,7 +6,7 @@ pubDate: 2024-3-24
 featured: false
 ---
 
-## 第一步：安装web 服务器 nginx（可选）
+## 第一步：安装 web 服务器 nginx（可选）
 
 Debian 12:
 
@@ -40,7 +40,7 @@ sudo apt update
 sudo apt install snapd
 ```
 
-## 第四步：安装Certbot
+## 第四步：安装 Certbot
 
 若之前有安装过 certbot 则需要先清理干净
 
