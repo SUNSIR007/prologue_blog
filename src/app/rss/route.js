@@ -20,13 +20,12 @@ export async function GET() {
   allPosts.filter((post) => post.draft === false).forEach((post) => {
     feed.item({
       title: post.title,
-      description: post.description,
+      description: post.content,
       author: siteMetadata.author,
       url: `${siteMetadata.siteUrl}${post.slug}`,
       guid: `${siteMetadata.siteUrl}${post.slug}`,
       date: post.pubDate,
       categories:post.tags,
-      content: post.content, 
     });
   });
 
