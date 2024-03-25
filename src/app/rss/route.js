@@ -26,6 +26,7 @@ export async function GET() {
       guid: `${siteMetadata.siteUrl}${post.slug}`,
       date: post.pubDate,
       categories:post.tags,
+      content: post.content, 
     });
   });
 
